@@ -1,0 +1,20 @@
+.box{
+	height: 100px;
+	background-color: red;
+	border: 1px solid black;
+}
+.location{}
+.location iframe{
+	width: 100%;
+	height: 300px;
+}
+.video{}
+.video iframe{
+	width: 100%;
+	height: 300px;
+}
+
+.a{
+    margin-top: 100px;
+	text-align: center;
+}
